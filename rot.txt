@@ -2,3 +2,4 @@ bum
 
 javascript
 openai
+algorithm
